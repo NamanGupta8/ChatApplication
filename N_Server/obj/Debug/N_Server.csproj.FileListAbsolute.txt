@@ -1,0 +1,6 @@
+c:\users\n gupta\documents\visual studio 2013\Projects\N_Server\N_Server\bin\Debug\N_Server.exe.config
+c:\users\n gupta\documents\visual studio 2013\Projects\N_Server\N_Server\bin\Debug\N_Server.exe
+c:\users\n gupta\documents\visual studio 2013\Projects\N_Server\N_Server\bin\Debug\N_Server.pdb
+c:\users\n gupta\documents\visual studio 2013\Projects\N_Server\N_Server\obj\Debug\N_Server.csprojResolveAssemblyReference.cache
+c:\users\n gupta\documents\visual studio 2013\Projects\N_Server\N_Server\obj\Debug\N_Server.exe
+c:\users\n gupta\documents\visual studio 2013\Projects\N_Server\N_Server\obj\Debug\N_Server.pdb
